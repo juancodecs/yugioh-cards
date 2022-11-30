@@ -1,0 +1,138 @@
+.carta {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.god {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 337px;
+}
+.name {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: -webkit-linear-gradient(000deg, blue, red, cyan, yellow, gold, black, silver, green, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.class {
+    position: absolute;
+    top: 76.5%;
+    left: 43%;
+    transform: translate(-150%, -150%);
+    font-size: xx-large;
+}
+.text {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.attack {
+    position: absolute;
+    top: 89.5%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+.defense {
+    position: absolute;
+    top: 89.5%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+}
+.carta2 {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.god2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 337px;
+}
+.name2 {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #C0C0C0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.class2 {
+    position: absolute;
+    top: 76.5%;
+    left: 44%;
+    transform: translate(-150%, -150%);
+    font-size: small;
+}
+.text2 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.attack2 {
+    position: absolute;
+    top: 89.5%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+.defense2 {
+    position: absolute;
+    top: 89.5%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+}
+.carta3 {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.god3 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 337px;
+}
+.name3 {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFD700;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.class3 {
+    position: absolute;
+    top: 76.5%;
+    left: 45%;
+    transform: translate(-150%, -150%);
+    font-size: larger;
+}
+.text3 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.attack3 {
+    position: absolute;
+    top: 89.5%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+.defense3 {
+    position: absolute;
+    top: 89.5%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+}
